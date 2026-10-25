@@ -1,0 +1,13 @@
+[server]
+maxUploadSize = 12
+
+[theme]
+base = "light"
+primaryColor = "#2B3A9E"
+backgroundColor = "#F4F5FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#131A3A"
+borderColor = "#E1E4EF"
+baseRadius = "large"
+font = "Instrument Sans:https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Bricolage Grotesque:https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&display=swap"
